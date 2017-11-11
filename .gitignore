@@ -145,3 +145,6 @@ pythontex-files-*/
 # endfloat
 *.ttt
 *.fff
+
+# scribus
+*.autosave
