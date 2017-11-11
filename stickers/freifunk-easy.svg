@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105mm"
+   height="148mm"
+   viewBox="0 0 372.04724 524.40945"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="freifunk-easy.svg"
+   inkscape:export-filename="/home/julian/Nextcloud/GFX/freifunk-easy.png"
+   inkscape:export-xdpi="229.2"
+   inkscape:export-ydpi="229.2">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="203.03082"
+     inkscape:cy="304.14089"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1916"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-527.95276)">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffcc33;stroke-width:3.88919163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642"
+       width="304.927"
+       height="117.07785"
+       x="36.217972"
+       y="700.61847"
+       ry="12.153724"
+       rx="0" />
+    <g
+       id="g310"
+       transform="matrix(0.48614896,0,0,0.48614896,14.970028,530.70898)">
+      <g
+         id="g278">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:48px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';letter-spacing:0px;word-spacing:0px;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="487.34863"
+           y="433.38492"
+           id="text4691"><tspan
+             sodipodi:role="line"
+             id="tspan4693"
+             x="487.34863"
+             y="433.38492"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#de2c68;fill-opacity:1">'Freifunk'</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:48px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="157.59215"
+           y="434.13492"
+           id="text4683"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'"
+             sodipodi:role="line"
+             id="tspan4685"
+             x="157.59215"
+             y="434.13492">verbinde dein Gerät mit</tspan></text>
+        <g
+           id="g268">
+          <circle
+             r="20.203051"
+             cy="417.52945"
+             cx="118.12228"
+             id="path4695"
+             style="opacity:1;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:4.80000019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4697"
+             y="430.05283"
+             x="110.83311"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:31.25px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#ffffff;fill-opacity:1"
+               y="430.05283"
+               x="110.83311"
+               id="tspan4699"
+               sodipodi:role="line">1</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g289">
+        <g
+           id="g263">
+          <circle
+             r="20.203051"
+             cy="489.01331"
+             cx="118.12228"
+             id="path4695-7"
+             style="opacity:1;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:4.80000019;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text4697-0"
+             y="501.61707"
+             x="111.42306"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:31.25px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#ffffff;fill-opacity:1"
+               y="501.61707"
+               x="111.42306"
+               id="tspan4699-1"
+               sodipodi:role="line">2</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:35px;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';fill:#ffffff;fill-opacity:1"
+               y="540.67957"
+               x="111.42306"
+               sodipodi:role="line"
+               id="tspan4730" /></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:48px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="156.30309"
+           y="502.76163"
+           id="text4683-0"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'"
+             sodipodi:role="line"
+             id="tspan4685-1"
+             x="156.30309"
+             y="502.76163">genieße kostenfreies</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:48px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';letter-spacing:0px;word-spacing:0px;fill:#de2c68;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="453.2677"
+           y="502.0585"
+           id="text4786"><tspan
+             sodipodi:role="line"
+             id="tspan4788"
+             x="453.2677"
+             y="502.0585"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#de2c68;fill-opacity:1">WLAN</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffcc33;stroke-width:3.88919163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642-37"
+       width="233.99158"
+       height="154.03461"
+       x="47.308968"
+       y="798.36292"
+       ry="12.153724"
+       rx="0" />
+    <g
+       id="g257"
+       transform="matrix(0.48614896,0,0,0.48614896,7.811088,534.3551)">
+      <g
+         transform="translate(0,1.2243493e-5)"
+         id="g215">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="198.94284"
+           y="603.95062"
+           id="text4174-5"><tspan
+             sodipodi:role="line"
+             id="tspan4176-4"
+             x="198.94284"
+             y="603.95062"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'">Gebühren</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#e13d74;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="116.64134"
+           y="603.20062"
+           id="text4174-5-9"><tspan
+             sodipodi:role="line"
+             id="tspan4176-4-8"
+             x="116.64134"
+             y="603.20062"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#e13d74;fill-opacity:1">keine</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-4.3275118)"
+         id="g221">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="198.75534"
+           y="662.22125"
+           id="text4174"><tspan
+             sodipodi:role="line"
+             id="tspan4176"
+             x="198.75534"
+             y="662.22125"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'">Registrierung</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#e13d74;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="116.64134"
+           y="662.22125"
+           id="text4174-5-9-4"><tspan
+             sodipodi:role="line"
+             id="tspan4176-4-8-6"
+             x="116.64134"
+             y="662.22125"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#e13d74;fill-opacity:1">keine</tspan></text>
+      </g>
+      <g
+         transform="translate(0,0.91149976)"
+         id="g228">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:100%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="117.01634"
+           y="717.04254"
+           id="text4174-5-5"><tspan
+             sodipodi:role="line"
+             x="117.01634"
+             y="717.04254"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'"
+             id="tspan4236">         Speicherung</tspan><tspan
+             sodipodi:role="line"
+             x="117.01634"
+             y="765.81"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'"
+             id="tspan4240">von Verbindungsdaten</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#e13d74;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="116.64134"
+           y="716.29254"
+           id="text4174-5-9-3"><tspan
+             sodipodi:role="line"
+             id="tspan4176-4-8-63"
+             x="116.64134"
+             y="716.29254"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#e13d74;fill-opacity:1">keine</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-5.2965208e-6)"
+         id="g234">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="181.56561"
+           y="826.0318"
+           id="text4174-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan4176-4-5"
+             x="181.56561"
+             y="826.0318"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'">Volumen- oder Zeitlimit</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#e13d74;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="116.64134"
+           y="826.0318"
+           id="text4174-5-9-34"><tspan
+             sodipodi:role="line"
+             id="tspan4176-4-8-4"
+             x="116.64134"
+             y="826.0318"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';fill:#e13d74;fill-opacity:1">kein</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffcc33;stroke-width:3.88919163;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4642-3"
+       width="103.33327"
+       height="111.2202"
+       x="228.75716"
+       y="794.18512"
+       ry="17.252716"
+       rx="0" />
+    <path
+       id="path3710"
+       d="m 262.4274,868.67458 v -53.2449 h 33.76229 v 41.11017 h 3.25673 v -43.85609 c 0,-2.57487 -2.10567,-4.68285 -4.68285,-4.68285 h -30.91005 c -2.57719,0 -4.68516,2.10798 -4.68516,4.68285 v 59.97794 c 0,2.57257 2.10797,4.67823 4.68516,4.67823 h 8.38567 l -4.62276,-8.66766 -5.18903,0.002 v 0 z m 11.93595,-57.29675 h 9.89039 c 0.31204,0 0.56397,0.25195 0.56397,0.56861 0,0.31204 -0.25193,0.56397 -0.56397,0.56397 h -9.89039 c -0.31204,0 -0.5686,-0.25193 -0.5686,-0.56397 0,-0.31666 0.25888,-0.56861 0.5686,-0.56861 z m 27.31586,51.4975 v -0.57784 c 0,-1.28975 -1.04705,-2.34143 -2.34374,-2.34143 h -0.24731 c -1.299,0 -2.34374,1.05168 -2.34374,2.33911 v 0.58016 2.05944 h -0.90375 v -2.05944 -0.58016 c 0,-1.28743 -1.04474,-2.33911 -2.33911,-2.33911 h -0.25426 c -1.28975,0 -2.34142,1.05168 -2.34142,2.33911 v 2.6396 h -0.90375 v -2.6396 c 0,-1.28743 -1.04705,-2.33911 -2.33911,-2.33911 h -0.25195 c -1.29668,0 -2.34142,1.05168 -2.34142,2.33911 v 0.58016 2.05944 h -0.74658 v -6.18294 c 4.83079,-1.25045 8.42729,-5.6074 8.42729,-10.82187 0,-6.18986 -5.03418,-11.22173 -11.21943,-11.22173 -6.18525,0 -11.21943,5.03417 -11.21943,11.22173 0,5.44098 3.8993,9.98053 9.04674,10.99754 v 6.0142 2.7829 5.62358 c -2.49629,-2.66039 -4.00562,-5.62589 -5.62128,-5.99571 -2.08717,-0.48308 -3.84844,1.12102 -2.40614,3.90392 1.44461,2.78058 8.35563,14.85059 8.36488,14.86447 0.9153,2.21892 3.86,5.47103 10.81724,5.46871 11.15934,0.002 11.15934,-9.95509 11.15934,-9.95509 v -14.37447 c 0,-0.009 0.005,-0.0139 0.005,-0.0231 v -4.36157 h 0.002 z m -19.70681,-15.59024 -0.25425,-0.002 c -1.3013,0 -2.35529,1.05398 -2.35529,2.3599 v 2.59568 c -1.57867,-0.80204 -2.67195,-2.42001 -2.67195,-4.30609 0,-2.66964 2.17269,-4.84465 4.84465,-4.84465 2.67194,0 4.84695,2.17269 4.84695,4.84465 0,1.62721 -0.81822,3.06488 -2.05019,3.94089 v -2.23048 c -0.002,-1.30592 -1.05398,-2.3599 -2.35992,-2.3576 z m -10.50058,0.64487 c 0,-5.54962 4.51412,-10.06605 10.06374,-10.06605 5.54961,0 10.06373,4.51643 10.06373,10.06605 0,4.57422 -3.088,8.39724 -7.2716,9.61765 v -3.03253 c 2.55871,-1.09328 4.36157,-3.63118 4.36157,-6.58512 0,-3.94552 -3.2105,-7.15602 -7.15602,-7.15602 -3.94552,0 -7.15602,3.2105 -7.15602,7.15602 0,3.18046 2.10335,5.85472 4.98333,6.78158 v 3.03253 c -4.50257,-1.00083 -7.88873,-5.01337 -7.88873,-9.81411 z"
+       inkscape:connector-curvature="0"
+       style="fill:#de2c68;fill-opacity:1;stroke-width:0.6901086" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:23.33514977px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48614895px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="70.178833"
+       y="710.71722"
+       id="text4687"><tspan
+         sodipodi:role="line"
+         id="tspan4689"
+         x="70.178833"
+         y="731.36334"
+         style="stroke-width:0.48614895px" /></text>
+    <g
+       id="g4313"
+       transform="matrix(0.48614896,0,0,0.48614896,8.998574,542.38057)">
+      <g
+         transform="matrix(1.7842172,0,0,1.7842172,11.226568,23.152972)"
+         id="g3773">
+        <circle
+           id="circle3775"
+           stroke-miterlimit="4"
+           transform="matrix(1.477616,0,0,1.5065066,-3.122124,-2.4350016)"
+           r="22"
+           cy="54"
+           cx="36"
+           style="fill:none;stroke:#de2c68;stroke-width:1.14544892;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           id="circle3777"
+           stroke-miterlimit="4"
+           transform="matrix(1.5950476,0,0,1.6223254,-10.072136,-9.1778182)"
+           r="22"
+           cy="44"
+           cx="74"
+           style="fill:none;stroke:#de2c68;stroke-width:1.06239557;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           id="circle3779"
+           stroke-miterlimit="4"
+           transform="matrix(1.5831269,0,0,1.5986441,-9.3397104,-8.1360194)"
+           r="29"
+           cy="44"
+           cx="74"
+           style="fill:none;stroke:#de2c68;stroke-width:5.81192684;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <polygon
+           id="polygon3781"
+           transform="matrix(1.4493674,0,0,1.3737988,-2.70016,2.5042672)"
+           points="31,44 26,44 30,48 22,48 22,52 30,52 26,56 31,56 37,50 "
+           style="fill:#ffcc33;fill-opacity:1" />
+        <polygon
+           id="polygon3783"
+           transform="matrix(1.5159598,0,0,1.568926,-5.2784314,-7.233634)"
+           points="81,59 75,53 88,53 88,47 75,47 81,41 73,41 64,50 73,59 "
+           style="fill:#ffcc33;fill-opacity:1" />
+      </g>
+      <text
+         id="text4826"
+         y="116.57269"
+         x="309.87149"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.21987152px;line-height:100%;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'"
+           y="116.57269"
+           x="309.87149"
+           id="tspan4828"
+           sodipodi:role="line">Freifunk</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:100%;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT'"
+           id="tspan4830"
+           y="192.79257"
+           x="309.87149"
+           sodipodi:role="line">[Community]</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:38.89191818px;line-height:125%;font-family:'AlternateGothic2 BT';-inkscape-font-specification:'AlternateGothic2 BT Condensed';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48614895px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="189.0316"
+       y="1016.6213"
+       id="text4832"><tspan
+         sodipodi:role="line"
+         id="tspan4834"
+         x="189.0316"
+         y="1016.6213"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.30744743px;font-family:'Swiss911 XCm BT';-inkscape-font-specification:'Swiss911 XCm BT';text-align:center;text-anchor:middle;stroke-width:0.48614895px">www.freifunk-xyz.de</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.33514977px;line-height:125%;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48614895px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.871941"
+       y="855.35876"
+       id="text4214"><tspan
+         sodipodi:role="line"
+         id="tspan4216"
+         x="75.871941"
+         y="876.37799"
+         style="stroke-width:0.48614895px" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot71"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:25px;font-family:'PHANTOM STENCIL';-inkscape-font-specification:'PHANTOM STENCIL';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.48614896,0,0,0.48614896,7.811088,534.3551)"><flowRegion
+         id="flowRegion73"><rect
+           id="rect75"
+           width="460"
+           height="302.85715"
+           x="114.28571"
+           y="596.80542" /></flowRegion><flowPara
+         id="flowPara77" /></flowRoot>  </g>
+</svg>
