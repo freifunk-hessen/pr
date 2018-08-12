@@ -12,24 +12,24 @@ Ein Teil der Flyer sind angehaengt und ueber [diesen Link](https://www.figma.com
 
 ---
 
-![Flyer1](FlyerDesigns/GanzeStadt.jpg)
+![Flyer1](https://github.com/seichris/pr/blob/master/flyer/https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/FreiesWlan.jpg)
 
 ---
 
-![Flyer2](FlyerDesigns/FuerAlle.jpg)
+![Flyer2](https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/FuerAlle.jpg)
 
 ---
 
-![Flyer3](FlyerDesigns/FreiesWlan.jpg)
+![Flyer3](https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/GanzeStadt.jpg)
 
 ---
 
-![Flyer4](FlyerDesigns/Freiheit.jpg)
+![Flyer4](https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/Freiheit.jpg)
 
 ---
 
-![Flyer5](FlyerDesigns/ShareWifi.jpg)
+![Flyer5](https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/ShareWifi.jpg)
 
 ---
 
-![Flyer6](FlyerDesigns/Volksnetz.jpg)
+![Flyer6](https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/Volksnetz.jpg)
