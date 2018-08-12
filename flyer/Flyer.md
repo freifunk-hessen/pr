@@ -12,7 +12,7 @@ Ein Teil der Flyer sind angehaengt und ueber [diesen Link](https://www.figma.com
 
 ---
 
-![Flyer1](https://github.com/seichris/pr/blob/master/flyer/https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/FreiesWlan.jpg)
+![Flyer1](https://github.com/seichris/pr/blob/master/flyer/FlyerDesigns/FreiesWlan.jpg)
 
 ---
 
