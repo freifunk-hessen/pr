@@ -12,24 +12,24 @@ Ein Teil der Flyer sind angehaengt und ueber [diesen Link](https://www.figma.com
 
 ---
 
-![ganze stadt](Flyerdesigns/GanzeStadt.jpg)
+![Flyer1](FlyerDesigns/GanzeStadt.jpg)
 
 ---
 
-![ganze stadt](Flyerdesigns/FuerAlle.jpg)
+![Flyer2](FlyerDesigns/FuerAlle.jpg)
 
 ---
 
-![ganze stadt](Flyerdesigns/FreiesWlan.jpg)
+![Flyer3](FlyerDesigns/FreiesWlan.jpg)
 
 ---
 
-![ganze stadt](Flyerdesigns/Freiheit.jpg)
+![Flyer4](FlyerDesigns/Freiheit.jpg)
 
 ---
 
-![ganze stadt](Flyerdesigns/ShareWifi.jpg)
+![Flyer5](FlyerDesigns/ShareWifi.jpg)
 
 ---
 
-![ganze stadt](Flyerdesigns/Volksnetz.jpg)
+![Flyer6](FlyerDesigns/Volksnetz.jpg)
